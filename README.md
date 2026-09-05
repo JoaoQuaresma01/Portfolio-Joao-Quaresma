@@ -50,6 +50,92 @@ O projeto foi desenvolvido com foco em performance, design minimalista e código
 
 ---
 
+## 🧭 Seções do Portfólio
+
+| Seção | Descrição |
+| :--- | :--- |
+| **00 — Início (Hero)** | Boas-vindas com título de impacto, resumo de atuação, foto de perfil e links de navegação rápida. |
+| **01 — Sobre** | Trajetória acadêmica (FATEC), atuação profissional na IBM e catálogo de competências técnicas. |
+| **02 — Projetos** | Vitrine com os principais projetos práticos desenvolvidos, com tags de tecnologias e links diretos para os repositórios. |
+| **03 — Experiência** | Linha do tempo detalhando atuações profissionais em sustentação de sistemas, desenvolvimento e suporte. |
+| **04 — Contato** | Formulário de contato dinâmico e botões diretos para LinkedIn e GitHub. |
+
+---
+
+## 🛠️ Tecnologias Utilizadas no Portfólio
+
+- **Estrutura**: HTML5 Semântico com foco em acessibilidade e SEO.
+- **Estilização**: CSS3 Puro com Variáveis CSS (*Custom Properties*), Media Queries e Animações.
+- **Tipografia**: [Outfit](https://fonts.google.com/specimen/Outfit) (títulos) e [Source Sans 3](https://fonts.google.com/specimen/Source+Sans+3) (corpo) via Google Fonts.
+- **Comportamento & Efeitos**: JavaScript Vanilla (DOM API, Intersection Observer API, Event Listeners).
+
+---
+
+## 🚀 Projetos em Destaque no Portfólio
+
+O portfólio apresenta três dos principais projetos do desenvolvedor:
+
+### 1. [EstudeMy (Full Stack)](https://github.com/JoaoQuaresma01/EstudeMy-FullStack)
+> Plataforma de estudos gamificada para tornar o aprendizado mais envolvente. Conta com trilhas personalizadas de cursos, sistema de pontuação e medalhas, além de um jogo RPG interativo com sistema de quiz.
+- **Stack**: `TypeScript`, `React`, `Node.js`, `MongoDB`, `Tailwind CSS`.
+
+### 2. [Vending Machine](https://github.com/JoaoQuaresma01/Vending-Machine-Project)
+> Simulação de uma máquina de vendas automática desenvolvida em Java. Trabalha com fluxo de compra, validação de moedas, cálculo de troco, gestão de estoque e painel de manutenção restrito.
+- **Stack**: `Java`, `POO`, `Estruturas de Dados`, `Lógica de Programação`.
+
+### 3. [Plataforma Streaming](https://github.com/JoaoQuaresma01/PlataformaStreaming)
+> Interface de uma plataforma de streaming inspirada em serviços de catálogo sob demanda, integrada ao consumo de API REST externa de filmes.
+- **Stack**: `React`, `JavaScript`, `REST API`, `CSS3`, `Webpack`, `Docker`.
+
+---
+
+## 💻 Como Executar Localmente
+
+Como o projeto é construído com tecnologias web nativas, não é necessário instalar dependências do Node.js ou gerenciadores de pacotes.
+
+### Pré-requisitos
+- Um navegador web moderno (Google Chrome, Mozilla Firefox, Microsoft Edge, etc.)
+- Opcional: Extensão **Live Server** no VS Code ou equivalente.
+
+### Passo a Passo
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/JoaoQuaresma01/Portifolio-Jo-o-Quaresma.git
+   ```
+
+2. **Acesse a pasta do projeto:**
+   ```bash
+   cd Portifolio-Jo-o-Quaresma
+   ```
+
+3. **Abra o portfólio:**
+   - **Opção 1**: Basta dar um duplo clique no arquivo `index.html`.
+   - **Opção 2 (Live Server)**: No VS Code, clique com o botão direito em `index.html` e selecione *Open with Live Server*.
+   - **Opção 3 (Terminal / npx)**:
+     ```bash
+     npx serve .
+     ```
+
+---
+
+## 📦 Como Fazer o Deploy (GitHub Pages)
+
+Para publicar o portfólio gratuitamente via **GitHub Pages**:
+
+1. Acesse o repositório no GitHub: `https://github.com/JoaoQuaresma01/Portifolio-Jo-o-Quaresma`.
+2. Vá na aba **Settings** (Configurações).
+3. No menu lateral esquerdo, clique em **Pages**.
+4. Na seção **Branch**, selecione `main` (ou `master`) e a pasta `/(root)`.
+5. Clique em **Save**.
+6. Em alguns minutos, seu portfólio estará online no endereço:
+   ```
+   https://joaoquaresma01.github.io/Portifolio-Joao-Quaresma/
+   ```
+
+
+---
+
 ## 📬 Contato
 
 Sinta-se à vontade para entrar em contato para oportunidades, parcerias ou tirar dúvidas:
@@ -67,3 +153,10 @@ Sinta-se à vontade para entrar em contato para oportunidades, parcerias ou tira
 ✉️ [joaovictorquaresma2001@gmail.com](mailto:joaovictorquaresma2001@gmail.com)
 
 </div>
+
+---
+
+<div align="center">
+  <sub>Desenvolvido com dedicação por <a href="https://github.com/JoaoQuaresma01">João Victor Quaresma</a>.</sub>
+</div>
+
