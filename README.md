@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://joaoquaresma01.github.io/Portifolio-Joao-Quaresma/" target="_blank">
+  <a href="https://joaoquaresma01.github.io/Portfolio-Joao-Quaresma/" target="_blank">
     <img src="https://img.shields.io/badge/Acessar_Portfólio-0a0a0f?style=for-the-badge&logo=googlechrome&logoColor=56b4d8" alt="Acessar Portfólio">
   </a>
 </p>
