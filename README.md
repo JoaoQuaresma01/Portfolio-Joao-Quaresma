@@ -121,7 +121,7 @@ Para publicar o portfólio gratuitamente via **GitHub Pages**:
 5. Clique em **Save**.
 6. Em alguns minutos, seu portfólio estará online no endereço:
    ```
-   https://joaoquaresma01.github.io/Portifolio-Jo-o-Quaresma/
+   https://joaoquaresma01.github.io/Portifolio-Joao-Quaresma/
    ```
 
 ---
