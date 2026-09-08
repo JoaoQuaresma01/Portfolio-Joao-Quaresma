@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://joaoquaresma01.github.io/Portifolio-Joao-Quaresma/" target="_blank">
-    <strong>🔗 https://joaoquaresma01.github.io/Portifolio-Joao-Quaresma/</strong>
+  <a href="https://joaoquaresma01.github.io/Portfolio-Joao-Quaresma/" target="_blank">
+    <strong>🔗 https://joaoquaresma01.github.io/Portfolio-Joao-Quaresma/</strong>
   </a>
 </p>
 
@@ -73,5 +73,5 @@ Fique à vontade para entrar em contato para oportunidades, parcerias ou network
 ---
 
 <div align="center">
-  <sub>Portfólio online: <a href="https://joaoquaresma01.github.io/Portifolio-Joao-Quaresma/">joaoquaresma01.github.io/Portifolio-Joao-Quaresma/</a></sub>
+  <sub>Portfólio online: <a href="https://joaoquaresma01.github.io/Portfolio-Joao-Quaresma/">joaoquaresma01.github.io/Portifolio-Joao-Quaresma/</a></sub>
 </div>
